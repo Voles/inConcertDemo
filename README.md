@@ -1,4 +1,4 @@
 inConcertDemo
 =============
 
-Demo of the inConcert application
+[Demo](http://voles.github.io/inConcertDemo) of the inConcert application
